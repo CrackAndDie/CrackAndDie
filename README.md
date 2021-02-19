@@ -7,6 +7,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-434452?style=flat-square&logo=python&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/-C%23-134856?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
