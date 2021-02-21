@@ -12,6 +12,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-839F56?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
