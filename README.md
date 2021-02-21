@@ -8,6 +8,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-839F56?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
