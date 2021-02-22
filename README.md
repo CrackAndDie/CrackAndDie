@@ -15,5 +15,10 @@
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
+<h4>And other nice badges :)</h4>
+<p>
+  <img alt="Instagram" src="https://img.shields.io/badge/crackanddie%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
   
