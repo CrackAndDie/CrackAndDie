@@ -18,6 +18,7 @@
 <h4>And other nice badges :)</h4>
 <p>
   <img alt="Instagram" src="https://img.shields.io/badge/crackanddie%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Skype" src="https://img.shields.io/badge/abdrakovairat%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
