@@ -22,6 +22,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/crackanddie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img alt="Telegram" src="https://img.shields.io/badge/crackanddie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <img alt="Reddit" src="https://img.shields.io/badge/CrackAndDie-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  <img alt="Facebook" src="https://img.shields.io/badge/Airat Abdrakov%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
