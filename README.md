@@ -20,6 +20,7 @@
   <img alt="Instagram" src="https://img.shields.io/badge/crackanddie%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   <img alt="Skype" src="https://img.shields.io/badge/abdrakovairat%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
   <img alt="Gmail" src="https://img.shields.io/badge/crackanddie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/crackanddie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
