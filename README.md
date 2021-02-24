@@ -5,6 +5,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/-C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=style=flat-square&logo=github&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
