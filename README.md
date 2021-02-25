@@ -26,6 +26,7 @@
   <img alt="Facebook" src="https://img.shields.io/badge/Airat Abdrakov%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   <img alt="Duolingo" src="https://img.shields.io/badge/duolingocad%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-crackanddie-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img alt="Stack Exchange" src="https://img.shields.io/badge/crackanddie%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
