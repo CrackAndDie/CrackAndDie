@@ -28,12 +28,13 @@
   <img alt="Instagram" src="https://img.shields.io/badge/crackanddie%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   <img alt="Skype" src="https://img.shields.io/badge/abdrakovairat%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
   <img alt="Gmail" src="https://img.shields.io/badge/crackanddie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Steam" src="https://img.shields.io/badge/crackanddie%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
   <img alt="Telegram" src="https://img.shields.io/badge/crackanddie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-crackanddie-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img alt="Stack Exchange" src="https://img.shields.io/badge/crackanddie%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/>
   <img alt="Reddit" src="https://img.shields.io/badge/CrackAndDie-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   <img alt="Facebook" src="https://img.shields.io/badge/Airat Abdrakov%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   <img alt="Duolingo" src="https://img.shields.io/badge/duolingocad%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-crackanddie-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  <img alt="Stack Exchange" src="https://img.shields.io/badge/crackanddie%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrackAndDie&show_icons=true&theme=gotham" alt="CrackAndDie" />
