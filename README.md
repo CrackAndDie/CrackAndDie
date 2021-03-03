@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h4>Things I code with (and do some another things)</h4>
+<h4>Things I code with (and do some other things) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" /> </h4> 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/-C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
